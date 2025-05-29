@@ -1,2 +1,5 @@
 mlflow
 ipykernel
+pandas
+numpy
+scikit-learn

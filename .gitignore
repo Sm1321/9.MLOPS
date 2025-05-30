@@ -3,3 +3,5 @@ mlops_env
 mlruns
 mlartifacts
 .dvc
+.dvcignore
+data
